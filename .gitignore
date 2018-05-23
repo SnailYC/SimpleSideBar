@@ -19,5 +19,4 @@ captures/
 # IntelliJ
 *.iml
 .idea/
-
-*.DS_Store 
+*.iml
